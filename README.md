@@ -1,0 +1,1 @@
+What have I learned so far through the oden project? I've mostly just been copying and pasting the tutorials, however I have learned alot in regards to using the command line, basic git, and github. Lets keep learning I've got a long ways to go. 
